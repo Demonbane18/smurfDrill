@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "152950943320",
-    "project_id": "smurfdrill",
-    "storage_bucket": "smurfdrill.appspot.com"
+    "project_number": "848317653225",
+    "project_id": "phone-auth-aa026",
+    "storage_bucket": "phone-auth-aa026.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:152950943320:android:8d0a3ac91719615cd5a42d",
+        "mobilesdk_app_id": "1:848317653225:android:30976b2037b5ceff7ed078",
         "android_client_info": {
-          "package_name": "com.smurfdrill"
+          "package_name": "com.phoneAuth"
         }
       },
       "oauth_client": [
         {
-          "client_id": "152950943320-ohk883cloopv0nk2gtndsaek839om57u.apps.googleusercontent.com",
+          "client_id": "848317653225-sogt47tqiol3449d6foci2h3shluq1qr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA1T_3GdQcy-VClrBH8gqWt1xxzn2hcTwA"
+          "current_key": "AIzaSyA_gesD0TGwWyBvb7cUWmuMAs23W_uTLN8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "152950943320-ohk883cloopv0nk2gtndsaek839om57u.apps.googleusercontent.com",
+              "client_id": "848317653225-sogt47tqiol3449d6foci2h3shluq1qr.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

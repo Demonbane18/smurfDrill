@@ -1,4 +1,4 @@
-package com.smurfdrill;
+package com.phoneAuth;
 
 import com.facebook.react.ReactActivity;
 

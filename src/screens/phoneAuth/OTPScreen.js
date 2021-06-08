@@ -48,7 +48,7 @@ const OTPScreen = function ({ route: { params: { phoneNumber } }, navigation }) 
       navigation.navigate('successScreen');
     }
     } catch(e){
-      alert(JSON.stringify(e));
+      alert("Invalid OTP");
     }
   }
   const onOtpChange = index => {

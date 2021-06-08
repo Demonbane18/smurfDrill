@@ -8,7 +8,7 @@ export default SuccessScreen = ({ navigation }) => {
     return (
         <View style={styles.container}>
             <Text style={styles.btnText}>
-                Welcome to D Coding Studio!
+                Authentication Test
             </Text>
         </View>
     );
